@@ -1,0 +1,3 @@
+# Mini-Web-Projects
+These are projects from a UDemy course I have taken provided by Jonas Schmedtmann...
+The projects are followed through with his implementations with a little personalized twist in application.
